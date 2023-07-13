@@ -1,0 +1,17 @@
+/*navbar*/
+.navlogo {
+    width: 30px;
+}
+
+.navbar {
+    background: rgba(38, 232, 229, 0.803);
+}
+.navbar-nav.li {
+    padding: 0 10px;
+}
+
+.navbar-nav.li.a {
+    color: #fff;
+    font-size: 20px;
+    font-family: bold;
+}
